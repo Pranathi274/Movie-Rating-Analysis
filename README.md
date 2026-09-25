@@ -1,5 +1,5 @@
 # Movie Rating Analysis
-
+# Inter ID: CITS9173
 ## Project Overview
 
 This project analyzes IMDb movie data to understand movie ratings, genres, release years, runtime, votes, revenue, and Metascores.
